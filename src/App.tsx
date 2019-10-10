@@ -5,7 +5,7 @@ import { Container1 } from './containers/Container1'
 export const App: FC = () => {
   return (
     <div>
-      App Wrapper
+      <h1>App Wrapper</h1>
       <Container1 />
     </div>
   );
